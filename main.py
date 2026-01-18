@@ -1,6 +1,5 @@
 import os 
 
 print(os.listdir())
-print(os.getcwd())
-print(os.name)
-print(os.path.abspath('.'))
+print("Hello, World!")
+print("This is a sample Python script.")
